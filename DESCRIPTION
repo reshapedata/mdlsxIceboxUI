@@ -1,0 +1,20 @@
+Package: mdlsxIceboxUI
+Type: Package
+Title: UI Package For DMS mdlsxIcebox Module in R
+Version: 1.0.0
+Author: hulilei
+Maintainer: hulilei <hulilei@takewiki.com.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Collate: 
+    'salesOrder.R'
+    'eigenvalues.R'
+    'FestivalShop.R'
+    'NationalMacroData.R'
+    'returnOrder.R'
+    'rushDate.R'
+    'salesOrder_shop.R'
